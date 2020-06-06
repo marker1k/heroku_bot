@@ -1,0 +1,22 @@
+{
+  "name": "bot_heroku",
+  "version": "1.0.0",
+  "description": "Test Bot",
+  "main": "bot_heroku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marker1k/heroku_bot.git"
+  },
+  "author": "marker1k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marker1k/heroku_bot/issues"
+  },
+  "homepage": "https://github.com/marker1k/heroku_bot#readme",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
